@@ -17,15 +17,15 @@ Source :
 Objective: Understanding the available data as much as possible to define a modeling strategy.
 
 #### I.1 Form
-- [ ] Identifying the target variable
-- [ ] Number of rows and columns
-- [ ] Identifying missing values
-- [ ] Types of variables
+- [x] Identifying the target variable
+- [x] Number of rows and columns
+- [x] Identifying missing values
+- [x] Types of variables
 
 #### I.2 Content
-- [ ] Visualizing the target variable (histogram/box plot)
-- [ ] Understanding different variables (research)
-- [ ] Visualizing relationships: features/target
+- [x] Visualizing the target variable (histogram/box plot)
+- [x] Understanding different variables (research)
+- [x] Visualizing relationships: features/target
 - [ ] Identifying outliers
 
 
