@@ -32,19 +32,19 @@ Objective: Understanding the available data as much as possible to define a mode
 ### II. Pre-processing
 Objective: Transforming the data into a suitable format for machine learning.
 
-- [ ] Creating the Train Set / Test Set
-- [ ] Handling NaN values: dropna(), imputation, "empty" columns
-- [ ] Encoding
+- [x] Creating the Train Set / Test Set
+- [x] Handling NaN values: dropna(), imputation, "empty" columns
+- [x] Encoding
 - [ ] Removing  detrimental outliers
-- [ ] Feature selection
-- [ ] Feature engineering
+- [x] Feature selection
+- [x] Feature engineering
 - [ ] Feature scaling
 
 ### III. Modeling
 Objective: Developing a machine learning model capable of achieving the final objective.
 
-- [ ] Defining an evaluation function
-- [ ] Training different models
+- [x] Defining an evaluation function
+- [x] Training different models
 - [ ] Optimizing with GridSearchCV
-- [ ] Analysing errors and feedback to Preprocessing / EDA
+- [x] Analysing errors and feedback to Preprocessing / EDA
 - [ ] Learning Curve and decision making
